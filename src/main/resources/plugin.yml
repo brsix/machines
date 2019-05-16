@@ -1,0 +1,7 @@
+name: BrenosixMachines
+version: ${project.version}
+author: [Brenosix]
+main: com.brenosix.brenosixmachines.BrenosixMachines
+commands:
+  maquina:
+    aliases: [machine, maquinas]
